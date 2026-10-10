@@ -1,0 +1,6 @@
+{
+  "name": "Reformas & Pintura Pro",
+  "description": "Herramienta ágil de presupuestos profesionales, seguimiento y envío por WhatsApp para profesionales y autónomos de reformas y pintura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
